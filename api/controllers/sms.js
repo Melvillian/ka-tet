@@ -26,4 +26,3 @@ exports = module.exports = function(recipient, name, phoneNumber) {
     body: name + ": " + phoneNumber
   });
 };
-
